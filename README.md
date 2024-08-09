@@ -1,2 +1,1 @@
-# active-box-simpletemplate
-Active-Box 
+Active-Box Project "Radix Sole software house"
